@@ -20,4 +20,4 @@ A small plug-in that allows StableDiffusion's ControlNet to support sequence fra
 
 ## Video Tutorial
 
-[click watch video](https://sales.ws.126.net/minisite/2023/0510/1683706144_f2f.mp4)
+https://github.com/ningbonb/stable-diffusion-controlnet-frame2frame/assets/19989328/90e4ac88-d2cf-45b7-b924-bbaa5a75dbdf
