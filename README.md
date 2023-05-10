@@ -1,6 +1,6 @@
 ## stable-diffusion-controlnet-frame2frame
 
-[English](./README_en.md) | 简体中文
+[English](./README.en.md)
 
 一个让 StableDiffusion 的 ControlNet 支持序列帧（批量多图）的小插件。
 

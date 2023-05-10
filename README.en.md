@@ -1,6 +1,6 @@
 ## stable-diffusion-controlnet-frame2frame
 
-English | [简体中文](./README.md)
+[简体中文](./README.md)
 
 A small plug-in that allows StableDiffusion's ControlNet to support sequence frames (batch multi-map).
 
