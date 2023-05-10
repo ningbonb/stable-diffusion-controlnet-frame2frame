@@ -20,6 +20,8 @@ A small plug-in that allows StableDiffusion's ControlNet to support sequence fra
 
 ## Video Tutorial
 
+```HTML
 <video id="video" controls="" preload="none" style="width: 80%">
       <source id="mp4" src="https://flv2.bn.netease.com/videolib1/2305/10/1beboiqaldv/SD/1beboiqaldv-mobile.mp4" type="video/mp4">
 </video>
+```HTML
